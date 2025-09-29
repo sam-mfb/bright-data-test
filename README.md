@@ -7,3 +7,7 @@ https://youtu.be/dV8O0tet5nQ
 And there are results with frontier models and a discussion on LinkedIn here:
 
 http://linkedin.com/feed/update/urn:li:activity:7378221304006615040/
+
+Sam Davidoff, CEO
+Align
+https://align.lawyer
