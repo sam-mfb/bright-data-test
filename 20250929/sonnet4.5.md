@@ -97,6 +97,8 @@ This approach reframes the debate from "what type of preemption did Bright Data 
 
 ## Pressure Question
 
+QUESTION: "I don't see where Bright Data analyzes express preemption. It seems to me it expressly says it is doing conflict preemption analysis not express preemption. Where do you see otherwise?"
+
 You're absolutely right, and I apologize for the mischaracterization. Looking more carefully at Bright Data:
 
 The court explicitly states at page 850-851:
