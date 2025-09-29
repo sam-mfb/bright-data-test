@@ -1,4 +1,4 @@
-# The Bright Data Tests
+# The Bright Data Test
 
 Repository for inofrmation the Bright Data Test for legal analysis by LLMs.
 
