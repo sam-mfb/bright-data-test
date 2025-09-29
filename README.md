@@ -20,7 +20,7 @@ Results with frontier models and a discussion on LinkedIn here:
 
 http://linkedin.com/feed/update/urn:li:activity:7378221304006615040/
 
-NB: I re-ran the tasts after posting the video in order to ensure results were consistent across models and to get the results of Claude Sonnet 4.5 which happened to be released the exact same day I made this post.
+NB: I re-ran the tasts after posting the video in order to ensure prompts were consistent across models and to get the results of Claude Sonnet 4.5 which happened to be released the exact same day I made this post.
 
 Results are available in ./20250929 folder in this repo.
 
