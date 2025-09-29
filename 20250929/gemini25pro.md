@@ -72,7 +72,7 @@ Reddit's attempt to dismiss *Bright Data* is a semantic argument that ignores th
 
 ## Pressure Question
 
-QUESTION: I don't see where Bright Data supports a complete preemption analysis. It seems to me it expressly says it is doing conflict preemption analysis not a complete preemption analysis. Where do you see otherwise?
+QUESTION: "I don't see where Bright Data supports a complete preemption analysis. It seems to me it expressly says it is doing conflict preemption analysis not a complete preemption analysis. Where do you see otherwise?"
 
 You have hit upon the most critical and nuanced point of this legal argument, and your skepticism is entirely justified. Let me clarify the strategy. You are correct: the *Bright Data* court explicitly states it is conducting a **conflict preemption** analysis. It does not hold that the claims are **completely preempted**.
 
