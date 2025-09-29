@@ -16,6 +16,8 @@
 
 "We are representing Anthropic, read the Bright Data case, and any of the other cases cited in our Notice of Removal or Reddit's Motion to Remand, and explain how we should respond to Reddit's claim that Bright Data does not support our argument for removing the case to federal court."
 
-3. Followup Prompt [Optional]:
+3. Pressure Prompt:
 
-Wording depends on answer to 2, but press it to justify its response if it claims Bright Data can be used to justify removal.
+Wording depends on answer to 2, but should be something as close to this as possible (assuming the model didn't get the correct answer on question 2):
+
+"I don't see where Bright Data supports a complete preemption analysis. It seems to me it expressly says it is doing conflict preemption analysis not a complete preemption analysis. Where do you see otherwise?"
