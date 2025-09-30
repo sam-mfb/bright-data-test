@@ -16,13 +16,13 @@ https://youtu.be/dV8O0tet5nQ
 
 ## Results
 
+Raw results with frontier models are available in [./20250929](https://github.com/sam-mfb/bright-data-test/tree/main/20250929) folder in this repo.
+
 Results with frontier models and a discussion on LinkedIn here:
 
 http://linkedin.com/feed/update/urn:li:activity:7378221304006615040/
 
-NB: I re-ran the tasts after posting the video in order to ensure prompts were consistent across models and to get the results of Claude Sonnet 4.5 which happened to be released the exact same day I made this post.
-
-Results are available in ./20250929 folder in this repo.
+NB: I re-ran the tasts after posting the video in order to ensure prompts were consistent across models and to get the results of Claude Sonnet 4.5 which happened to be released the exact same day I made this post. The raw results above are the most up to date ones.
 
 ## Contributions
 
